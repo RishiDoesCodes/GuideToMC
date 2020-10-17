@@ -1,2 +1,2 @@
 ## GuideToMCBE
-#A Guide to Minecraft Bedrock Edition (Not Java)
+# A Guide to Minecraft Bedrock Edition (Not Java)
