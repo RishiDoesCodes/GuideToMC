@@ -42,10 +42,31 @@ an axe,
 
 and a shovel.
 
+# Health and Hunger
+
+![Health and Hunger](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ-wKs5kcMs2vYalbQoKMNt9L29gZTAeeNOg&usqp=CAU)
+
+Now you may notice 10 hearts and food icons on the top left and right of your screen (or above your hotbar)
+
+These display how much health and hunger you have.
+
+If you have no health, you will die. You can heal your health by eating.
+
+If the hunger bar is full you will heal, if its not you wont be able to heal. If you hunger bar has less than 3 hunger you will not be able to sprint
+
+To get food, you need to kill animals like pigs, cows, chickens and sheeps (you may get wool from sheeps, it will come useful when making a bed). But eating it raw wont heal much of your hunger bar.
+
+You need to cook it using a furnace. You can craft a furnace by making a ring of cobblestone(x8) in a crafting table.
+
+![Furnace Recipe](https://staticg.sportskeeda.com/editor/2020/12/10b0f-16088938860601-800.jpg)
+
+You can cook your food by placing the food on top, and fuel below it. You can use wood, coal or charcoal as fuel.
+
+![Furncace cokking](https://staticg.sportskeeda.com/editor/2020/12/741ee-16088939997325-800.jpg)
 # Nighttime
 
-You may realise that the world has become a bit darker. That is not good as during the night, mobs liek zombies, skeletons and creepers start to spawn. To skip the night, you need a bed. Craft a bed
+You may realise that the world has become a bit darker. That is not good as during the night, mobs like zombies, skeletons and creepers start to spawn. To skip the night, you need a bed. Craft a bed by using wool from sheeps and wooden planks
 
 ![Bed Recipe](https://staticg.sportskeeda.com/editor/2021/01/23ae0-16097373557660-800.jpg)
 
-and place it down and sleep in it to skip the night.
+and place it down and right click it to sleep in it and skip the night.
