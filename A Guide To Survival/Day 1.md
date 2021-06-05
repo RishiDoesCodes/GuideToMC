@@ -71,4 +71,4 @@ You may realise that the world has become a bit darker. That is not good as duri
 
 and place it down and right click it to sleep in it and skip the night.
 
-Or if you;re feeling a bit brave today, you can fight them using the stone sword. Mobs can drop useful items, to learn more about mobs check the entities section.
+Or if you're feeling a bit brave today, you can fight them using the stone sword. Mobs can drop useful items, to learn more about mobs check the entities section.
